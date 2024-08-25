@@ -1,5 +1,5 @@
 const totalParticipants = 1000;  // 総参加者数
-const winners = 2;  // 当選者数
+const winners = 200;  // 当選者数
 let drawnCount = 0;  // くじを引いた回数
 let hasWon = false;  // 当選フラグ
 
